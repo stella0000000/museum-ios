@@ -1,5 +1,5 @@
 ### museum-ios
-Odile wondered how they could kill the time. Franz had read about an American who had done the Louvre in nine minutes, and forty-five seconds. They'd do better. Arthur, Franz and Odile beat the record by Jimmy Johnson of San Francisco by two seconds." - Bande à part, 1964 [1]
+Odile wondered how they could kill the time. Franz had read about an American who had done the Louvre in nine minutes, and forty-five seconds. They'd do better. Arthur, Franz, and Odile beat the record by Jimmy Johnson of San Francisco by two seconds." - Bande à part, 1964 [1]
 
 ### Motivation
 - While we were walking around Cloisters, I wondered if there's a way to keep track of which galleries you've visited at the Metropolitan Museum of Art, the fourth largest museum in the world [2].
