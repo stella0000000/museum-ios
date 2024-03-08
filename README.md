@@ -16,8 +16,8 @@ Odile wondered how they could kill the time. Franz had read about an American wh
 - Does the user need to keep the app open? Or? **What? Exactly? Is? Going? On? Here?**
 
 ### References
-[1] https://www.youtube.com/watch?v=J9i771qYngY
-[2] https://en.wikipedia.org/wiki/List_of_largest_art_museums
+- [1] https://www.youtube.com/watch?v=J9i771qYngY
+- [2] https://en.wikipedia.org/wiki/List_of_largest_art_museums
 
 Run the development server:
 ```bash
